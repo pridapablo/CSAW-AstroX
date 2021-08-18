@@ -1,0 +1,1 @@
+curl -d "uname='user'&pword='pword'&login='$_FILES[1/0]'" -X POST payroll.newcity.city/login.php
